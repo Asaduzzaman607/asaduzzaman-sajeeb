@@ -1,8 +1,4 @@
 @charset "UTF-8";
-/*!
- *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
- *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
- */
 /* FONT PATH
  * -------------------------- */
 @font-face {
@@ -12350,7 +12346,7 @@ body:after {
   animation: none;
 } */
 
-#viewport {
+/* #viewport {
   position: absolute;
   left: 0;
   top: 0;
@@ -12367,7 +12363,7 @@ body:after {
   padding: 3px 10px;
   font-size: 13px;
   height: 26px;
-}
+} */
 /* @media (min-width: 768px)
 .col-md-7 {
     flex: 0 0 58.333333%;
@@ -12378,7 +12374,7 @@ body:after {
     flex: 0 0 41.666667%;
     max-width: 41.666667%;
 } */
-.align-items-center {
+/* .align-items-center {
   align-items: center!important;
 }
 .row {
@@ -12386,4 +12382,30 @@ body:after {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+} */
+/* @media screen and (max-width: 750px) {
+  .box-caption{
+    transform: scale(.85);
+    top:22%;
+    width:300px;
+    left:40%;
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+  } 
+  } 
 }
+
+@media screen and (max-width: 412px) {
+  .box-caption{
+    transform: scale(.65);
+    top:22%;
+    left:40%;
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+  } 
+  .wrapper{
+    margin-top:80px;
+  }
+} */
