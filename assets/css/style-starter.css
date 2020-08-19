@@ -59,9 +59,9 @@
   transition: .5s;
 }
 
-.wrapper:hover {
+/* .wrapper:hover {
   transform:scale(1.1);
-}
+} */
 
 .icons a{
   text-decoration: white;
